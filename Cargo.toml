@@ -1,0 +1,10 @@
+[package]
+name = "colony_merge"
+version = "0.1.0"
+authors = ["Sam Crow <samcrow@uw.edu>"]
+
+[dependencies]
+rustc-serialize = "0.3.16"
+chrono = "0.2.15"
+clap = "1.2.3"
+csv = "0.14.2"
